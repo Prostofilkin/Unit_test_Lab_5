@@ -1,0 +1,13 @@
+﻿  UnitTest1.cpp
+C:\Users\Bashmachok\source\repos\Laba_IPZ_3\UnitTest1\UnitTest1.cpp(62,10): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\Bashmachok\source\repos\Laba_IPZ_3\UnitTest1\UnitTest1.cpp(84,10): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\Bashmachok\source\repos\Laba_IPZ_3\UnitTest1\UnitTest1.cpp(93,10): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\Bashmachok\source\repos\Laba_IPZ_3\UnitTest1\UnitTest1.cpp(94,10): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\Bashmachok\source\repos\Laba_IPZ_3\UnitTest1\UnitTest1.cpp(96,19): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\Bashmachok\source\repos\Laba_IPZ_3\UnitTest1\UnitTest1.cpp(97,19): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\Bashmachok\source\repos\Laba_IPZ_3\UnitTest1\UnitTest1.cpp(100,10): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\Bashmachok\source\repos\Laba_IPZ_3\UnitTest1\UnitTest1.cpp(109,10): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\Bashmachok\source\repos\Laba_IPZ_3\UnitTest1\UnitTest1.cpp(110,10): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\Bashmachok\source\repos\Laba_IPZ_3\UnitTest1\UnitTest1.cpp(114,10): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+     Создается библиотека C:\Users\Bashmachok\source\repos\Laba_IPZ_3\x64\Debug\UnitTest1.lib и объект C:\Users\Bashmachok\source\repos\Laba_IPZ_3\x64\Debug\UnitTest1.exp
+  UnitTest1.vcxproj -> C:\Users\Bashmachok\source\repos\Laba_IPZ_3\x64\Debug\UnitTest1.dll
